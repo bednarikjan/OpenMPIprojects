@@ -1,6 +1,6 @@
 # Mesh Multiplication
 
-The implementaion of the parallel algorithm Mesh Multiplication using OpenMPI ibrary.
+The implementaion of the parallel algorithm Mesh Multiplication using OpenMPI library.
 
 ## Dependencies
 * OpenMPI (mpic++)
