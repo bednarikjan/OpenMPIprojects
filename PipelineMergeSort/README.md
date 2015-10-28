@@ -1,6 +1,6 @@
 # Pipeline Merge Sort
 
-The implementaion of the parallel algorithm Pipeline Merge Sort using OpenMPI ibrary.
+The implementaion of the parallel algorithm Pipeline Merge Sort using OpenMPI library.
 
 ## Dependencies
 * OpenMPI (mpic++)
