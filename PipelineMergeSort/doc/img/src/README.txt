@@ -1,0 +1,1 @@
+Sekvencni diagram byl vytvoren pomoci online sluzby draw.io -> nacist sequence_diagram.xml.
