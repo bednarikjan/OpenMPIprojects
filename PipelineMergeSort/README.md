@@ -5,7 +5,7 @@ The implementaion of the parallel algorithm Pipeline Merge Sort using OpenMPI ib
 ## Dependencies
 * OpenMPI (mpic++)
 
-## Run
+## Compile and Run
 ```
 $ cd src
 $ chmod +x test.sh
